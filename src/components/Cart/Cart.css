@@ -1,0 +1,19 @@
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 30px;
+}
+.check-out{
+    border: none;
+    width: 100px;
+    height: 45px;
+    background-color: rgba(255, 35, 27, 0.692);
+}
+.check-out:hover{
+    background-color: chocolate;
+}
+.check-out a{
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+}
